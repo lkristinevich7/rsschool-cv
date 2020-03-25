@@ -219,7 +219,7 @@ e-mail: **lkristinevich7@gmail.com**
     const amountEl_two= document.getElementById('amount-two');
 
     const rateEl = document.getElementById('rate');
-    const swap= document.getElementById('swap');
+    const change= document.getElementById('change');
 
     //Fetch exchange rates, updating DOM
     function calculate(){
