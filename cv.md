@@ -1,7 +1,8 @@
 # Liudmila Krystsinevich
 
 ## Contact
-tel. +48791684043, e-mail lkristinevich7@gmail.com
+tel: **+48791684043**
+e-mail: **lkristinevich7@gmail.com**
 
 ## Summary
  I am a person passionate about technologies, who is looking for challenging opportunities to develop my skills and get new ones. I have a unique combination of strong technical skills and communication skills. I enjoy building sites and web applications using HTML, CSS, JS and React.js. Additionally I am capable to work with Excel and SQL. I am a fluent in English, Polish and Russian. Considering my soft skills I would like to emphasize exceptional organizational and communication skills. I am a highly-motivated person who is willing to go above and beyond on any project and to learn valuable skills on my own time. 
@@ -19,9 +20,7 @@ tel. +48791684043, e-mail lkristinevich7@gmail.com
 * Saas - basic
 
 ## Code examples
-```html, css, javascript
-<!DOCTYPE html>
-<html lang="en">
+```html
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -124,7 +123,7 @@ tel. +48791684043, e-mail lkristinevich7@gmail.com
   </style>
   </head>
   <body>
-    <img src="img/money.png" alt="" class="money-img" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fmaxp%2Fu2w7t4o0o0r5q8e6%2F&psig=AOvVaw29Np1MCm6nUtS9tbZ0TGMF&ust=1585251898792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICGtdextugCFQAAAAAdAAAAABAD" alt="Rate icon" class="money-img" />
     <h1>Exchange Rate Calculator</h1>
     <p>Choose the currency and the amounts to get the exchange rate</p>
 
@@ -253,11 +252,9 @@ tel. +48791684043, e-mail lkristinevich7@gmail.com
     
   </script>
   </body>
-</html>
 ```
 ## Experience
-You could take a look on some my works following the link bellow
-[My portfolio link](https://liudmila-krystsinevich.000webhostapp.com/)
+You could take a look on some of my works following the [link](https://liudmila-krystsinevich.000webhostapp.com/).
 
 ## Education
 My highest degree is Master of Science in Supply chain Management at Cracow University of Economics, but also I would like to mention that I have been studying programming on my own more than a year and a half.
@@ -270,7 +267,6 @@ My highest degree is Master of Science in Supply chain Management at Cracow Univ
 * The Rolling Scopes course - as you know :) 
 
 ## English
-I estamate my English level as B2. I have been practicing it at multinational corporation where I am currently working.
-
+I estimate my English level as B2. I have been practicing it at multinational corporation where I am currently working.
 
 
