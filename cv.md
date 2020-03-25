@@ -123,7 +123,7 @@ e-mail: **lkristinevich7@gmail.com**
   </style>
   </head>
   <body>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fmaxp%2Fu2w7t4o0o0r5q8e6%2F&psig=AOvVaw29Np1MCm6nUtS9tbZ0TGMF&ust=1585251898792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICGtdextugCFQAAAAAdAAAAABAD" alt="Rate icon" class="money-img" />
+    <img src="img/money.png" alt="Rate icon" class="money-img" />
     <h1>Exchange Rate Calculator</h1>
     <p>Choose the currency and the amounts to get the exchange rate</p>
 
